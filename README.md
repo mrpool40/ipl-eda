@@ -52,17 +52,3 @@ This project presents a comprehensive Exploratory Data Analysis (EDA) on the Ind
 
 ---
 
-## ▶️ How to Run
-
-```bash
-git clone https://github.com/YOUR_USERNAME/ipl-eda.git
-cd ipl-eda
-pip install -r requirements.txt
-jupyter notebook notebooks/ipl_analysis.ipynb
-```
-
----
-
-## 📜 License
-
-This project is released under the [MIT License](LICENSE).
